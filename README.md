@@ -1,5 +1,5 @@
 ## Hi there 👋
-![gif](<p align="center"> img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpmMHIwN3JxZDdvMzl0Nzd3dTJ4ZzQ1ODY5dHE1dDUybXdncHY3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8hYQgBIIHkCPjRTmai/giphy.gif" width="300"</p>)
+![gif]<p align="center"> img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpmMHIwN3JxZDdvMzl0Nzd3dTJ4ZzQ1ODY5dHE1dDUybXdncHY3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8hYQgBIIHkCPjRTmai/giphy.gif" width="300"</p>
 <!--
 **a9ditya-cpu/a9ditya-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
