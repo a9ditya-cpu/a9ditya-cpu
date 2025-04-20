@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ✨ My Contributions:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://example.com/sunset-animation-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://example.com/sunset-animation-light.svg">
+  <img alt="Dynamic animation based on time of day" src="https://example.com/sunset-animation.svg">
+</picture>
+
